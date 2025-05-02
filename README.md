@@ -1,7 +1,7 @@
-# internship-program
+# Internship-Program
 # Summer Internship Opportunity at Cogo Universe 🚀
 
-**Cogo Universe** – an innovation lab within **Cogoport** – is building the engines powering the future of freight, commerce, and conversations. Our work spans **AI**, **data science**, **software engineering**, **product design**, and **customer engagement** across global logistics.
+**Cogo Universe** is building the engines powering the future of freight, commerce, and conversations. Our work spans **AI**, **data science**, **software engineering**, **product design**, and **customer engagement** across global logistics.
 
 We are currently hiring interns across three powerful engines – **Pricing**, **Growth**, and **Conversation** – each blending frontier tech with real-world global trade challenges.
 
